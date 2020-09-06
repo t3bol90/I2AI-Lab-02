@@ -1,0 +1,6 @@
+[!] Finished read file ../INPUT/4-5-2.txt
+[*] KB: [['-A', 'C', 'D'], ['-A', 'B', '-C'], ['B', 'D'], ['B', '-C', 'D'], ['A', 'D']]
+[*] AL: [['-B', 'A', 'A', '-B'], ['-B', '-C', '-C', '-B'], ['-A', '-C', '-C', '-B'], ['-B', 'A', '-C', '-B'], ['-B', 'A', 'D', '-B'], ['-B', '-C', 'A', '-B'], ['-B', '-C', 'D', '-B'], ['-A', '-C', 'D', '-B']]
+[*] NOT alpha: [['A', '-B'], ['-B', '-C']]
+[-] KB does not entail alpha.
+[!] Finished write to ../OUTPUT/4-5-2.txt.

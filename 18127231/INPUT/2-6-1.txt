@@ -1,0 +1,10 @@
+2
+P OR Q
+-P OR R
+6
+-B OR -C OR -D OR F
+-B OR -C OR D
+-D OR E
+-A OR B
+-A OR C
+A
